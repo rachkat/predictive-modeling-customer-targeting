@@ -1,8 +1,8 @@
 # Improving Customer Targeting Through Predictive Modeling  
 
-![Made with R](https://img.shields.io/badge/Made%20with-R-blue?logo=r)  
-![License: MIT](https://img.shields.io/badge/License-MIT-green)  
-![Status: Complete](https://img.shields.io/badge/Status-Finished-brightgreen)  
+![Made with R](https://img.shields.io/badge/Made%20with-R-276DC3?logo=r&logoColor=white&style=flat-square) 
+![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square) 
+![Status: Finished](https://img.shields.io/badge/Status-Finished-brightgreen?style=flat-square)
 
 ---
 
